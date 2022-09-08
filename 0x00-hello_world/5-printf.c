@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * bettystyle documentation
  * main - prints exact words followed by a new line
- * Return : 0
+ *description: using the printf function
+ *this program prints a specific sentence
+ * Return: 0
  */
 int main(void)
 {
