@@ -4,7 +4,7 @@
  * @c: is the int that we will use for the function's argument
  * Return: Always zero
  */
-int print_sign(int n);
+int print_sign(int n)
 {
 	if (n > 0)
 	{
