@@ -32,7 +32,7 @@ printf("Buzz");
 }
 else
 {
-printf("%d", num);
+printf("%d ", num);
 }
 }
 printf("\n");
