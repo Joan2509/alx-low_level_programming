@@ -1,1 +1,1 @@
-98 Battery st.:C pointers, arrays and strings
+C pointers, arrays and strings
