@@ -7,7 +7,7 @@
  * Return: NULL if size is zero or fails
  */
 
-char *create_array(unsigned int size, char c);
+char *create_array(unsigned int size, char c)
 {
 	char *array;
 	unsigned int index;
