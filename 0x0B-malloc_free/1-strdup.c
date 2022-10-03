@@ -1,0 +1,24 @@
+#include "main.h"
+
+/**
+ * _strdup - returns a pointer to a newly allocated space
+ * in memory which contains a copy of the string as a parameter
+ * @str: string to be copied
+ * Return: NULL in case of error
+ */
+char *_strdup(char *str)
+{
+	char *cpy;
+	int index, len;
+
+	if (str == NULL)
+		return (NULL);
+
+	for (index = 0; str[index]; index++)
+	{
+		cpy[index] = str[index];
+	}
+	cpy[len] = '\0';
+
+	return (cpy);
+}
